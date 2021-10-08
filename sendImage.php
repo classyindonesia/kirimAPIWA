@@ -9,7 +9,7 @@ $params = [
     "image_name"=>"upin.jpg"
 ];
 
-$url = "http://192.168.225.132:5000/waapi/sendImage";
+$url = "http://103.41.204.234:50010/waapi/sendImage";
 
 $d = post_without_wait($url,$params);
 print_r($d);
