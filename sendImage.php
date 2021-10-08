@@ -5,7 +5,7 @@ include("./library/curl_async.php");
 $params = [
     "to"=>"6285648811419",
     "pesan"=>"test kirim gambar",
-    "imageurl"=>"https://cdn.idntimes.com/content-images/community/2020/06/maxresdefault-44d4d3ef849baff31bd64571388e2ea0_600x400.jpg",
+    "imageurl"=>"http://blog.classy.id/upload/foto_slide/5a6d33e5bd48b98826fdae4c24b4f470_20190819221648.jpeg",
     "image_name"=>"upin.jpg"
 ];
 
